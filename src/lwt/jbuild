@@ -9,5 +9,5 @@
                lwt.unix
                tls
                cohttp
-               cohttp.lwt
-               websocket.lwt))))
+               cohttp-lwt
+               websocket-lwt))))
